@@ -19,7 +19,7 @@
     <uses-permission android:name="android.permission.RECORD_AUDIO"/>
 
 
-    <application
+    <application。
         android:name=".App"
         android:allowBackup="false"
         android:icon="@mipmap/ic_launcher"
