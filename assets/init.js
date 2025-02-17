@@ -2,7 +2,7 @@ var global = this;
 
 runtime.init();
 
-(function () {
+(function () {。
     //重定向importClass使得其支持字符串参数
     global.importClass =
         (function () {
