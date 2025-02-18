@@ -36,7 +36,7 @@ repositories {
     flatDir {
         dirs 'libs'
     }
-    google()。
+    google()
 }
 
 dependencies {
