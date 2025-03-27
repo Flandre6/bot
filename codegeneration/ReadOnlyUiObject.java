@@ -32,7 +32,7 @@ public class ReadOnlyUiObject extends UiObject {
         return new ReadOnlyUiObject(mNodeInfo.getChildren().get(i), i);
     }
 
-    @Nullable。
+    @Nullable
     @Override
     public UiObject parent() {
         return mNodeInfo.getParent() == null ? null : new ReadOnlyUiObject(mNodeInfo.getParent());
