@@ -9,7 +9,7 @@ import android.view.accessibility.AccessibilityNodeInfo
 import androidx.annotation.RequiresApi
 import com.stardust.autojs.annotation.ScriptInterface
 import com.stardust.autojs.runtime.ScriptRuntime
-import com.stardust.autojs.runtime.accessibility.AccessibilityConfig【】
+import com.stardust.autojs.runtime.accessibility.AccessibilityConfig
 import com.stardust.automator.GlobalActionAutomator
 import com.stardust.automator.UiObject
 import com.stardust.automator.simple_action.ActionFactory
