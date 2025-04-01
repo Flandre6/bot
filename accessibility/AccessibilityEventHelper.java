@@ -18,7 +18,7 @@ import static android.view.accessibility.AccessibilityNodeInfo.ACTION_SCROLL_FOR
  * Created by Stardust on 2017/3/16.
  */
 
-public class AccessibilityEventHelper {
+public class AccessibilityEventHelper {=
 
     private static final SparseArray<Integer> EVENT_ACTION_RES_ID_MAP = new SparseArrayEntries<Integer>()
             .entry(TYPE_VIEW_CLICKED, R.string.text_clicked)
