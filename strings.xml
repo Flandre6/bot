@@ -18,7 +18,7 @@
     <string name="text_file_not_exists">File not exists</string>
     <string name="text_no_file_rw_permission">Permission denied</string>
     <string name="action_test">Inner 920 Test</string>
-    <string name="text_no_accessibility_permission">自动操作服务未启动，脚本已停止运行</string>、
+    <string name="text_no_accessibility_permission">自动操作服务未启动，脚本已停止运行</string>
     <string name="text_drawer_close">关闭侧拉菜单</string>
     <string name="text_drawer_open">打开侧拉菜单</string>
     <string name="text_undo">Undo</string>
